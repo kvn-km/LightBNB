@@ -141,4 +141,4 @@ exports.getUserWithId = getUserWithId;
 exports.addUser = addUser;
 exports.getAllReservations = getAllReservations;
 exports.getAllProperties = getAllProperties;
-exports.addProperty = addProperty;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+exports.addProperty = addProperty;
